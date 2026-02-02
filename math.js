@@ -20,5 +20,5 @@ console.log(Math.random());     //ata proti bar alada alada 0.any random shonkhs
 //amra jodi purno random digit paite cai tahole
 const random = Math.round(Math.random() * 10);   //tahole ki hobe? 10 er vitor theke random jekono digit show korbe.
 console.log(random);
-
+console.log(Math.pow(2, 3));
 // ==========================bisoy ta onek mojar chilo==================================
